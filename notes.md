@@ -59,5 +59,5 @@
         It's about user complete imformation and his credentials.
 
     jwt.sign() will take two parameters
-    one is request.query in which everything comes user's email and everything.
+    one is request.query in which everything comes like user's credentials.
     another parameter is your SECRET_KEY.
